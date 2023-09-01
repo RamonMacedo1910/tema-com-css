@@ -1,14 +1,13 @@
 body {
-}
+    background-image: url(spider\ man.jpg);
+    background-size: cover;
+    justify-content: flex-end;
+    font-family: Oxanium, fantasy;
+    font-weight: 500;
+}    
 
 main#container {
-}
+   color:aliceblue
 
-h1.titulo {
-}
-
-p.frase {
-}
-
-p.autor {
+    
 }
