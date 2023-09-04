@@ -2,12 +2,10 @@ body {
     background-image: url(spider\ man.jpg);
     background-size: cover;
     justify-content: flex-end;
-    font-family: Oxanium, fantasy;
-    font-weight: 500;
+    font-family:'Times New Roman', Times, serif
+    
 }    
 
 main#container {
-   color:aliceblue
-
-    
+   color:red;    
 }
